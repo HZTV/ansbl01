@@ -8,7 +8,7 @@
  5)  у
  6)  у
  7)  у
- 8)  у
+ 8)  ![Скриншот 18-03-2024 150346](https://github.com/HZTV/ansbl01/assets/149588305/a4540a79-5e0f-4684-8ad6-f494a5b08615)
  9) Для этого задания подошли бы :
 community.docker.docker_api
 community.docker.nsenter
